@@ -1,0 +1,3 @@
+smtp.gmail.com
+imap.gmail.com
+www.hua.gr
